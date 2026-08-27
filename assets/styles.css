@@ -4,6 +4,12 @@
 /*  Just a quick edit to Styles.css.  We're testing how the
 local Git repo and the remote GitHub repo sync up.*/
 
+/*  Another changes to style.css, but only in the commwnra, 
+so it won't be visible.  
+
+This is to test making changes on the remote GitHub repo, for 
+Lesson 35 - Working on a Feature Branch*/
+
 
 /* Import fonts from Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Jersey+10&family=Inter:wght@300;400;500;600&display=swap");
